@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Nelrau
+- 👀 I’m interested in  Python
+- 🌱 I’m currently learning  projets basicos
+- 💞️ I’m looking to collaborate on  interface grafica
